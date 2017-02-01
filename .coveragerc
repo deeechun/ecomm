@@ -1,0 +1,3 @@
+[run]
+source = ecomm
+omit = ecomm/test*

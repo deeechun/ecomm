@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = ecomm:main
+      [console_scripts]
+      initialize_ecomm_db = ecomm.scripts.initializedb:main
+      
